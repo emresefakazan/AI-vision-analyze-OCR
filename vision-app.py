@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # Set API key
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "Enter your api key : "
 
 # Initialize Groq client
 client = Groq(api_key=GROQ_API_KEY)
